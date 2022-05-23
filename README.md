@@ -1,3 +1,3 @@
 # Brownie Fund Me 
 
-Freecodecamp smart contract development using Brownie, Solidity, Ganache, and Ethereum Test networks
+Freecodecamp smart contract development using Solidity, Python, Brownie, Ganache, and Ethereum Test networks
